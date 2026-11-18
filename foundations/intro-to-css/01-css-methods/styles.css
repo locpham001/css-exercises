@@ -1,0 +1,12 @@
+*{
+    font-family: 'Times New Roman', serif;
+}
+div,p {
+    color:white
+}
+
+div{
+    background-color: red;
+    font-size: 22px;
+    font-weight: bold;
+}
