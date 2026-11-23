@@ -5,3 +5,12 @@
 font: 28px "Helvetica", "Times New Roman", "sans-serif"
 
 }
+
+.clickme {
+    color:white;
+    background-color: black;
+}
+
+.otherclickme {
+    background-color: yellow
+}
