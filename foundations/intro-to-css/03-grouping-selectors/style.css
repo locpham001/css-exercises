@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+
+.clickme,
+.otherclickme{
+font: 28px "Helvetica", "Times New Roman", "sans-serif"
+
+}
